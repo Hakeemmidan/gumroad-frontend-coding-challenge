@@ -10,4 +10,4 @@ see how each one behaves
    - Currently, only one appears if both are left in `index.html`, I'm not exactly sure why that happens, to be honest, but I just wanted to let you know that I'm aware of that issue.
 
 ## Other notes
-For the script links, instead of a relative import, the JS could be hosted, then we can use an absloute import in production (e.g. `src="https://some-hosting-site/js/gumroad-embed.js"` or `src="https://some-hosting-site/js/gumroad.js"`)
+For the script links, instead of a relative import, the JS could be hosted, then we can use an absloute import in production (e.g. `src="https://some-hosting-site.com/js/gumroad-embed.js"` or `src="https://some-hosting-site.com/js/gumroad.js"`)
